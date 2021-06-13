@@ -9,7 +9,7 @@ setup(
         url='https://github.com/shivampandya/boxit',
         version=VERSION,
         author="Shivam Pandya",
-        author_email="sampandyasp@gmail.com",
+        author_email="shivamnyt@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         py_modules=['boxit'],
@@ -17,6 +17,7 @@ setup(
         install_requires=[],
         keywords=['python', 'boxit', 'text color', 'tabular', 'ascii', 'box'],
         classifiers= [
+            'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
             "Development Status :: 1 - Planning",
             "Intended Audience :: Developers",
             "Programming Language :: Python :: 3",
