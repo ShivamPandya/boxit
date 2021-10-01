@@ -16,3 +16,7 @@ pip3 install boxit
 | Text color | Use this if you want text color to be different from box color. |
 | Spacing | How far should your title be from each side inside the box. |
 | Shift | How far your box should be from your cli wall. |
+
+Contribute:
+- Please do not raise any spam PR.
+- You can add documentation as long as it adds some value and makes it easier for the users.
