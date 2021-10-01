@@ -20,3 +20,5 @@ pip3 install boxit
 Contribute:
 - Please do not raise any spam PR.
 - You can add documentation as long as it adds some value and makes it easier for the users.
+- If you can create a good cover image, I will be very thankful.
+- Adding coding snippets for the documentation is required.
