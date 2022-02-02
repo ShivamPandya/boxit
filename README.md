@@ -31,9 +31,14 @@ Contribute:
 ```shell
 from boxit.boxit import boxit
 name = "Jon Doe"
-boxed = boxit(name, 'green', pattern='solid')
+boxed = boxit(name, pattern='solid')
 print(boxed)
 ```
 
 ### Output:
-![output]()
+```
+┏━━━━━━━┓
+┃Jon Doe┃
+┗━━━━━━━┛
+```
+
