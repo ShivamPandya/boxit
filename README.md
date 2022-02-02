@@ -1,7 +1,7 @@
 # BOXIT
 ### Command line utility to make you text stand out
 
-![boxit-banner](./files/boxit.gif)
+![boxit-banner](./files/banner.gif)
 
 How to install:
 ```
