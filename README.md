@@ -1,7 +1,7 @@
 # BOXIT
 ### Command line utility to make you text stand out
 
-![boxit-banner](./files/banner.gif)
+![boxit-banner](https://raw.githubusercontent.com/ShivamPandya/files/main/boxit/banner.gif)
 
 How to install:
 ```
@@ -36,4 +36,4 @@ print(boxed)
 ```
 
 ### Output:
-![output](./files/output_one.png)
+![output]()
