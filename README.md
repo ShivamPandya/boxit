@@ -23,4 +23,4 @@ Contribute:
 - If you can create a good cover image, I will be very thankful.
 - Adding coding snippets for the documentation is required.
 
-Peace ❤️
+❤️
