@@ -1,6 +1,8 @@
 # BOXIT
 ### Command line utility to make you text stand out
 
+![boxit-banner](./files/boxit.gif)
+
 How to install:
 ```
 pip3 install boxit
@@ -23,4 +25,15 @@ Contribute:
 - If you can create a good cover image, I will be very thankful.
 - Adding coding snippets for the documentation is required.
 
-❤️
+## Simple usage:
+
+### Code:
+```shell
+from boxit.boxit import boxit
+name = "Jon Doe"
+boxed = boxit(name, 'green', pattern='solid')
+print(boxed)
+```
+
+### Output:
+![output](./files/output_one.png)
