@@ -1,3 +1,10 @@
+import ctypes
+import platform
+
+if platform.system() == 'Windows':
+    kernel32 = ctypes.windll.kernel32
+    kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
+
 def boxit(title, color:str='', pattern:str= None,
         textcolor:str='', spacing:int=0, shift:int = 0)->str:
 

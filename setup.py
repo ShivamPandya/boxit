@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3' 
+VERSION = '1.0.0' 
 DESCRIPTION = 'A CLI utility to make your text stand out'
 LONG_DESCRIPTION = 'This package allows you to put important titles in box. You get to pick colors too!'
 
