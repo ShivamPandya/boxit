@@ -1,4 +1,5 @@
-# BOXIT
+# BOXIT [![Downloads](https://static.pepy.tech/personalized-badge/boxit?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/boxit)
+
 ### Command line utility to make you text stand out
 
 ![boxit-banner](https://raw.githubusercontent.com/ShivamPandya/files/main/boxit/banner.gif)
