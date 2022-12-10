@@ -1,4 +1,4 @@
-# BOXIT [[![Downloads](https://static.pepy.tech/personalized-badge/boxit?period=month&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/boxit)
+# BOXIT [![Downloads](https://static.pepy.tech/personalized-badge/boxit?period=total&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/boxit)
 
 ### Command line utility to make you text stand out
 
