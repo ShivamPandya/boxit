@@ -11,9 +11,9 @@ def boxit(title, color:str='', pattern:str= None,
     title = str(title)
 
     colors = {
-        'black':30, 'red':31, 'green':32, 'brown':33,
+        'black':30, 'red':31, 'green':32, 'yellow':33,
         'blue':34, 'purple':35, 'cyan':36, 'grey':37,
-        'orange': 91,'lightgreen': 92,'yellow': 93, 'lightblue': 94,
+        'orange': 91,'lightgreen': 92,'lightyellow': 93, 'lightblue': 94,
         'lightpurple': 95,'lightcyan': 96,'white': 97, '':'' }
 
     patterns = {"hollow" : {"ulc": "╔", "llc": "╚",
