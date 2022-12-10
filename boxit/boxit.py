@@ -6,7 +6,7 @@ if platform.system() == 'Windows':
     kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
 
 def boxit(title, color:str='', pattern:str= None,
-        textcolor:str='', spacing:int=0, shift:int = 0)->str:
+        textcolor:str='', bold:bool=False, spacing:int=0, shift:int = 0)->str:
 
     title = str(title)
 
@@ -58,6 +58,8 @@ def boxit(title, color:str='', pattern:str= None,
         color = f"\u001b[{colors[color]}m"
     if textcolor:
         textcolor = f"\u001b[{colors[textcolor]}m"
+    if bold:
+        color += f"\u001b[1m"
 
     if pattern == None:
         result = f'{color}{title}\033[0m'
